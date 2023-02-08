@@ -1,0 +1,1 @@
+Azure Storage Blob based Spring Integration LockRegistry implementation.
